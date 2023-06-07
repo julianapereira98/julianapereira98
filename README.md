@@ -18,3 +18,6 @@ I am a recent graduate in Systems Analysis and Development and I am looking for 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapereira98&layout=compact&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianapereira98&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
+<br><br>
+
+![Snake animation](https://github.com/julianapereira98/julianapereira98//blob/output/github-contribution-grid-snake.svg)
