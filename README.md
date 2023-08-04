@@ -1,6 +1,6 @@
 ## Hi! I'm Juliana 👋
 
-I am a recent graduate in Systems Analysis and Development and I am looking for opportunities in projects related to Data Analysis and Data Science.
+I am graduate in Systems Analysis and Development and I am looking for opportunities in projects related to Data Analysis and Data Science.
 
 **Connect with me**
 
